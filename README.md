@@ -22,20 +22,16 @@
 <a href="https://github.com/salmanytofficial/XLICON-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-MD?label=Watching&style=social"></a>
 </p>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{salmanytofficial}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+
+</br>
+
+<h2 align="center"> Star the repo if u like it🌟
+</h2>
+
 ## `Notice`
 
-If you re-upload  anything from my [@Slasher](github.com/ahil15) ***REPOSITORY*** give me ***Credit*** Else I can Take Legal Action On You!⚠
-
----
-
-## `Announment` 🤫
-
-***BelugaBot-MD*** is now Officially Announced ✨
-
-<h1 align="center"> *BelugaBot-MD*
-</h1>
-
-<p align="center"><a href="https://github.com/ahil15/BelugaBot-MD"><img title="" src="https://img.shields.io/badge/BelugaBot%20-purple?style=for-the-badge&logo=github"></a>
+Dont't Forget To ***SYNC FORK*** The Respository Before ***Deploy*** 
 
 ---
 
@@ -66,18 +62,6 @@ If you re-upload  anything from my [@Slasher](github.com/ahil15) ***REPOSITORY**
 - Make your boring whatsapp fun
 
 
-## `Support`
-
-For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
-
-
-<p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
 
 
 ## `MONGODB URL`
@@ -91,7 +75,7 @@ For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
 
 
 ```
-mongodb+srv://salmanytofficial:s4salmanyt@cluster0.6wtgil3.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://salmanahmad:s4salmanyt@cluster0.szcj2eo.mongodb.net/?retryWrites=true&w=majority
 ```
 
 | Parameter | Type     | Description                |
@@ -346,15 +330,16 @@ Choose your repo
 
 <div align="center">
   
-| [![𝚂𝚊𝚕𝚖𝚊𝚗𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕](https://github.com/salmanytofficial.png?size=150)](https://github.com/salmanytofficial)|
+| [![𝚂𝚊𝚕𝚖𝚊𝚗𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕](https://github.com/salmanytofficial.png?lenght=50width=50)](https://github.com/salmanytofficial)|
 |----|
 | [ 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 ](https://github.com/salmanytofficial) |
 |  Owner, Developer, Bug Fixer, Maintainer, updates |
 
+<br>
   
-| [![SlasherOfficial](https://github.com/ahil15.png?size=150)](https://github.com/ahil15) |
+| [![SlasherOfficial](https://github.com/Maher-Zubair.png?lenght=50width=50)](https://github.com/Maher-Zubair) |
 |----|
-| [ N ᴏ ᴛ   S ʟ ᴀ ꜱ ʜ ᴇ ʀ ](https://github.com/ahil15) |
+| [ 𝙈𝙀𝙃𝘼𝙍 𝙕𝙐𝘽𝘼𝙄𝙍 ](https://github.com/Maher-Zubair) |
 |  Co.Owner , Bug Fixer, |
 
   </div>
@@ -362,8 +347,30 @@ Choose your repo
    
   </br> 
 
+  ## `Support`
 
-<h2 align="left">  Reminder
+For support, email [ xheikhsalman4422@gmail.com ] or join our whatsapp group.
+
+
+<p align="center">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+    <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
+
+**Buy Me a Coffee**: Your support will help me stay motivated and continue working on exciting projects like this one.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/ahmmikun">
+  <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
+</a>
+
+
+</br>
+
+
+<h2 align="center">  Reminder
 </h2>
    
 - This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
@@ -378,10 +385,11 @@ Choose your repo
 </h1>
 
 * [`🎐 Sampandey`](https://github.com/SamPandey001) ***For Sector MD Base***
-* [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo) ***For Plugins and Debugging***
+* [`🎐 SuhailTechInfo`](https://github.com/SuhailTechInfo) ***For Scripts and Debugging***
+* [`🎐 MAHER-ZUBAIR`](https://github.com/Maher-Zubair) ***For Fixing Plugins***
 * [`🎐 Abraham Dwamena`](https://github.com/abrahamdw882) ***For QR Ideas***
-* [`🎐 MR-KALINDU`](https://github.com/MR-KALINDU) ***For Fixing Plugins***
-* [`🎐 MAHER-ZUBAIR`](https://github.com/Maher-Zubair) ***For Fixing Errors***
+* [`🎐 MR-KALINDU`](https://github.com/MR-KALINDU) ***For Fixing Errors***
+* 
 
 ---
 
